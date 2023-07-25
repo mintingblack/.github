@@ -1,4 +1,4 @@
-<p align="center"><a href="https://locklabs.xyz/" target="_blank"><img alt="zkSync Era zkEVM is Ethereum’s most user-centric ZK-rollup" title="zkSync Era zkEVM is Ethereum’s most user-centric ZK-rollup" src="https://github.com/locklabsxyz/.github/blob/main/header-image.png" width="100%">
+<p align="center"><a href="[https://locklabs.xyz/](https://minting.black/)" target="_blank"><img alt="zkSync Era zkEVM is Ethereum’s most user-centric ZK-rollup" title="zkSync Era zkEVM is Ethereum’s most user-centric ZK-rollup" src="[https://github.com/locklabsxyz/.github/blob/main/header-image.png](https://github.com/mintingblack/.github/blob/main/line%20minting.png)" width="100%">
 </a>
 </p>
 
@@ -7,8 +7,8 @@
 
 LockLabs Inc Coming Soon!.
 
-[BUILDING LAYERX ](https://layerx.build/)
+[NFT MARKETPLACE ](https://minting.black/))
 
-[BUILDING RAAS.BUILD ](https://raas.build/)
+[BRIDGE ](https://bridge.minting.black/))
 
 [Follow LockLabs Inc Twitter](https://twitter.com/LockLabsxyz)
